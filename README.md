@@ -82,8 +82,9 @@
 pip install -r requirements.txt
 ```
 
-模型权重（约 430MB）不在 git 历史中，从本仓库 Release 附件下载 `weights_v1.zip`，
-在仓库根目录解压，恢复 `runs_alt/ runs_mix2/ runs_four/` 三个目录。
+模型权重（约 415 MB）不在 git 历史中，从
+[Releases → Model weights v1](https://github.com/huangnian1012-glitch/nanopore-dna-block-reader/releases/tag/weights-v1)
+下载 `weights_v1.zip`，在仓库根目录解压，恢复 `runs_alt/ runs_mix2/ runs_four/` 三个目录。
 
 中国大陆网络需设置 HuggingFace 镜像（模型底座首次运行时自动下载）：
 
