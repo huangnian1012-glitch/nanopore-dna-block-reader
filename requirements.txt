@@ -1,0 +1,6 @@
+numpy>=1.24
+torch>=2.0
+transformers>=4.57
+matplotlib>=3.7
+chronos-forecasting>=2.3
+huggingface_hub>=0.24
